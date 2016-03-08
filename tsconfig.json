@@ -1,0 +1,30 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "module": "commonjs",
+    "sourceMap": true
+  },
+  "formatCodeOptions": {
+    "indentSize": 2
+  },
+  "filesGlob": [
+    "**/*.ts",
+    "**/*.tsx",
+    "!node_modules/**"
+  ],
+  "exclude": [
+    "typings/browser.d.ts",
+    "typings/browser/**"
+  ],
+  "atom": {
+    "rewriteTsconfig": true
+  },
+  "files": [
+    "app/a.ts",
+    "app/lib.ts",
+    "app/lib2.ts",
+    "app/main.ts",
+    "typings/main.d.ts",
+    "typings/main/definitions/lodash/lodash.d.ts"
+  ]
+}
