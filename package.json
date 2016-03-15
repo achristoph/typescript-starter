@@ -7,8 +7,20 @@
     "watch": "webpack -w",
     "start": "node build/bundle.js"
   },
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/achristoph/typescript-starter.git"
+  },
+  "keywords": [
+    "typescript",
+    "starter"
+  ],
+  "author": "Arthur Christoph",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/achristoph/typescript-starter/issues"
+  },
+  "homepage": "https://github.com/achristoph/typescript-starter#readme",
   "devDependencies": {
     "babel-core": "^6.6.5",
     "babel-loader": "^6.2.4",
