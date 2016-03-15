@@ -16,7 +16,7 @@ module.exports = {
       }
     ],
     loaders: [
-      { test: /\.ts?$/, loader: 'ts-loader' }
+      { test: /\.ts?$/, loader: 'ts' }
     ]
   },
   tslint: {
