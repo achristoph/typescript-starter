@@ -1,2 +1,1 @@
-# typescript-starter
-TypeScript Starter.
+# Typescript Starter

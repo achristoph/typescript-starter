@@ -3,7 +3,6 @@
   "rules": {
     "no-constant-condition": true,
     "forin": true,
-    
     "class-name": true,
     "curly": false,
     "eofline": true,
