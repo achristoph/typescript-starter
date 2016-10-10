@@ -21,8 +21,11 @@
     "url": "https://github.com/achristoph/typescript-starter/issues"
   },
   "homepage": "https://github.com/achristoph/typescript-starter#readme",
-  "devDependencies": {    
-    "ts-loader": "latest",
+  "devDependencies": {
+    "@reactivex/rxjs": "latest",
+    "@types/es6-shim": "latest",
+    "@types/node": "latest",
+    "awesome-typescript-loader": "latest",
     "tslint": "latest",
     "tslint-eslint-rules": "latest",
     "tslint-loader": "latest",

@@ -7,7 +7,6 @@
     "no-console": [
       false
     ],
-    "ordered-imports": false,
     "member-access": false,
     "quotemark": [
       true,
